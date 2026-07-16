@@ -5,6 +5,7 @@ class Solution {
             int sq=nums[i];
             int squ=sq*sq;
             squu[i]=squ;
+            //hello
         }
         Arrays.sort(squu);
         return squu;
